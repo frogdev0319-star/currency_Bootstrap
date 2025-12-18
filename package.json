@@ -1,0 +1,22 @@
+{
+  "name": "jpy-trend-analyzer",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.8",
+    "dayjs": "^1.11.11",
+    "echarts": "^5.5.0",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@vitejs/plugin-vue": "^5.0.4"
+  }
+}
