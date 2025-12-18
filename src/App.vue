@@ -2,7 +2,7 @@
   <div class="container">
     <div class="header">
       <h2>日圓走勢分析</h2>
-      <span class="badge bg-secondary">Vue + Vite · Bootstrap 5 · ECharts</span>
+      <!-- <span class="badge bg-secondary">Vue + Vite · Bootstrap 5 · ECharts</span> -->
     </div>
 
     <div class="toolbar">
